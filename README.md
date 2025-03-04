@@ -1,4 +1,4 @@
-# Made by : MOHAMMED MAHER
+# Made by : Mohamed Maher
 i got this data from kaggle and made ETL on it to make a tranformation into a various dimention to serve the star schema so i can make the analysis 
 ## dataset Link:https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba
 How to run this project :
