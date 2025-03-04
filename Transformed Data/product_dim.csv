@@ -1,0 +1,168 @@
+product_name,product_id,price,category_id,subcategory_id
+tropical fruit,1,1.2,1,1
+pip fruit,3,2.79,1,1
+citrus fruit,7,1.85,1,1
+fruit/vegetable juice,12,1.69,1,1
+packaged fruit/vegetables,13,1.63,1,1
+canned fruit,109,1.23,1,1
+frozen fruits,110,1.59,1,1
+berries,26,2.68,1,20
+grapes,40,2.79,1,34
+whole milk,2,1.7,2,2
+butter milk,16,2.79,2,2
+condensed milk,54,2.04,2,2
+UHT-milk,64,2.71,2,2
+butter,11,2.79,2,9
+margarine,70,1.96,2,9
+yogurt,18,2.8,2,13
+curd,45,2.19,2,13
+curd cheese,31,1.99,2,25
+processed cheese,41,2.47,2,25
+hard cheese,59,3.79,2,25
+cream cheese ,60,2.9,2,25
+sliced cheese,76,1.93,2,25
+specialty cheese,79,2.34,2,25
+spread cheese,89,2.33,2,25
+soft cheese,128,3.68,2,25
+ice cream,58,2.49,2,44
+whipped/sour cream,74,2.32,2,44
+cream,147,1.89,2,44
+other vegetables,4,2.01,3,3
+root vegetables,22,2.27,3,3
+pickled vegetables,62,1.21,3,3
+frozen vegetables,75,2.26,3,3
+canned vegetables,99,1.47,3,3
+specialty vegetables,162,2.02,3,3
+frozen potato products,33,2.66,3,27
+potato products,94,2.98,3,27
+onions,66,1.26,3,48
+salad dressing,161,1.65,3,97
+rolls/buns,5,1.52,4,4
+roll products ,131,2.64,4,4
+brown bread,20,2.82,4,15
+white bread,83,1.9,4,15
+semi-finished bread,103,1.71,4,15
+pastry,24,1.57,4,18
+zwieback,108,1.65,4,70
+long life bakery product,119,2.71,4,76
+cake bar,154,2.41,4,93
+pot plants,6,2.01,5,5
+beef,8,5.23,6,6
+frankfurter,9,2.26,6,7
+chicken,10,5.36,6,8
+frozen chicken,87,3.43,6,8
+sausage,19,4.7,6,14
+organic sausage,127,3.99,6,14
+hamburger meat,21,3.14,6,16
+meat,57,3.13,6,16
+meat spreads,135,3.41,6,16
+pork,23,7.36,6,17
+ham,29,1.98,6,23
+liver loaf,107,1.89,10,23
+fish,42,2.57,6,35
+frozen fish,95,2.75,6,35
+canned fish,101,1.29,6,35
+chocolate,14,0.84,7,10
+specialty chocolate,53,2.41,7,10
+chocolate marshmallow,118,1.1,7,10
+cooking chocolate,141,1.36,7,10
+specialty bar,15,1.08,7,11
+popcorn,47,1.03,7,38
+candy,65,1.18,7,47
+salty snack,80,1.97,7,56
+snack products,126,1.44,7,56
+tidbits,140,1.49,7,56
+nut snack,150,0.88,7,56
+nuts/prunes,93,1.12,7,63
+chewing gum,100,2.17,7,67
+bottled water,17,2.28,8,12
+canned beer,25,1.84,8,19
+bottled beer,50,3.3,8,19
+coffee,27,2.95,8,21
+instant coffee,125,2.56,8,21
+red/blush wine,32,2.29,8,26
+sparkling wine,43,1.04,8,26
+white wine,56,4.3,8,26
+soda,38,3.25,8,32
+liquor,61,2.42,8,45
+prosecco,106,2.91,8,45
+brandy,111,1.22,8,45
+rum,117,2.77,8,45
+whisky,139,1.61,8,45
+liqueur,143,2.73,8,45
+cocoa drinks,151,2.71,8,90
+tea,160,1.24,8,96
+misc. beverages,28,1.57,9,22
+turkey,30,2.69,10,24
+flour,34,2.58,11,28
+pasta,46,2.55,11,37
+baking powder,78,2.09,11,55
+pudding powder,163,1.34,12,55
+cereals,134,2.1,11,83
+rice,159,2.54,11,95
+sugar,35,2.68,12,29
+salt,72,2.55,12,53
+oil,73,2.18,12,54
+specialty fat,124,2.86,12,54
+vinegar,92,2.93,25,54
+artif. sweetener,97,2.46,12,65
+spices,113,1.68,12,72
+soups,122,1.25,12,78
+preservation products,167,2.53,12,99
+frozen meals,36,1.62,13,30
+frozen dessert,91,1.64,13,62
+waffles,115,2.38,13,74
+herbs,37,1.87,14,31
+detergent,39,2.26,15,33
+newspapers,44,5.48,15,36
+cleaner,55,3.61,15,43
+dish cleaner,77,4.6,15,43
+bathroom cleaner,105,5.35,15,43
+abrasive cleaner,144,2.39,15,43
+toilet cleaner,166,5.0,15,43
+soap,86,3.15,15,60
+hygiene articles,96,4.6,15,64
+kitchen towels,132,2.77,15,81
+finished products,48,2.3,16,39
+Instant food products,81,1.39,16,39
+ready soups,164,1.26,16,98
+beverages,49,2.81,17,40
+dessert,51,1.16,18,41
+dog food,52,2.2,19,42
+pet care,82,2.66,19,57
+cat food,104,1.29,19,69
+liquor (appetizer),63,1.57,20,46
+hair spray,67,2.69,21,49
+female sanitary products,84,1.92,21,58
+make up remover,165,2.95,21,58
+baby cosmetics,112,2.4,21,71
+dental care,130,1.4,21,80
+male cosmetics,137,2.87,21,85
+skin care,148,1.22,21,88
+rubbing alcohol,149,1.37,21,89
+photo/film,68,1.42,22,50
+domestic eggs,69,1.61,23,51
+shopping bags,71,2.51,24,52
+cling film/bags,85,1.74,24,59
+house keeping products,88,1.16,24,59
+bags,120,1.72,24,59
+decalcifier,90,1.97,24,61
+light bulbs,98,2.95,24,66
+cookware,102,2.87,24,68
+kitchen utensil,157,2.65,24,68
+napkins,114,2.26,24,73
+dishes,136,2.2,24,84
+candles,138,2.03,24,86
+softener,152,2.48,24,91
+sauces,116,1.96,25,75
+ketchup,146,2.29,25,75
+sweet spreads,121,2.84,25,77
+syrup,145,2.95,25,77
+honey,155,1.08,25,77
+jam,156,1.7,25,77
+mustard,123,2.57,25,79
+mayonnaise,129,1.64,25,79
+organic products,153,1.54,25,92
+flower soil/fertilizer,133,1.84,26,82
+seasonal products,142,2.18,27,87
+flower (seeds),158,2.38,28,94
