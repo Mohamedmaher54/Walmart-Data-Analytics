@@ -6,8 +6,11 @@ are most popular, which customer demographics spend the most, and how sales vary
 Imagine you're helping Walmart solve this problem. The CEO and department managers rely on you 
 to create a system that allows them to quickly answer questions like: 
 * What are the top-selling products in each category? 
+![alt text](image.png)
 * How do purchasing patterns change based on time? 
+![alt text](image-1.png)
 * Which types of promotions result in the highest sales?
+![alt text](image-3.png)
 # Identify Frequently Bought Together Items 
 ## Business Problem: 
 Walmart managers noticed that customers often buy certain items together, but they don’t have 
@@ -19,7 +22,7 @@ Write a query to find products that customers frequently purchase together. The 
 variations of each other (e.g., two types of milk count as one). 
 * Show the number of times these combinations were purchased together, sorted by the 
 most frequent pairs.
-
+![alt text](image-2.png)
 # Most Common Product Pairs:
 Dairy:
 Whole Milk + Yogurt: A staple pairing for breakfast or snacks.
