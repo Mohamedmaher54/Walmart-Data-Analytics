@@ -2,9 +2,9 @@
 i got this data from kaggle and made ETL on it to make a tranformation into a various dimention to serve the star schema so i can make the analysis 
 ## dataset Link:https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba
 How to run this project :
-1- in SQL folder run create_dim.sql 
-2- then run the insert satament with respect to order of the creation order 
-3- then run the analysis queries on create_dim.sql to get the analysis  
+* in SQL folder run create_dim.sql 
+* then run the insert satament with respect to order of the creation order 
+* then run the analysis queries on create_dim.sql to get the analysis  
 # Walmart-Data-Analytics
 Walmart deals with millions of transactions daily. To make sense of this data, the business needs a 
 structured way to store and retrieve it for analysis. The CEO wants to understand which products 
@@ -15,9 +15,13 @@ to create a system that allows them to quickly answer questions like:
 * What are the top-selling products in each category? 
 ![alt text](image.png)
 * How do purchasing patterns change based on time? 
+
 ![alt text](image-1.png)
+
 * Which types of promotions result in the highest sales?
+
 ![alt text](image-3.png)
+
 # Identify Frequently Bought Together Items 
 ## Business Problem: 
 Walmart managers noticed that customers often buy certain items together, but they don’t have 
@@ -29,7 +33,9 @@ Write a query to find products that customers frequently purchase together. The 
 variations of each other (e.g., two types of milk count as one). 
 * Show the number of times these combinations were purchased together, sorted by the 
 most frequent pairs.
+
 ![alt text](image-2.png)
+
 # Most Common Product Pairs:
 Dairy:
 Whole Milk + Yogurt: A staple pairing for breakfast or snacks.
